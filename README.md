@@ -5,7 +5,7 @@
 - Inicializar "code ."
 - En terminal de VS code "npm install".
 - En terminal de VS code "npm run dev".
-➜  Local:   http://localhost:5173/adopta-un-perrito
+- Ejemplo Local: http://localhost:5173/adopta-un-perrito
 
 
 
